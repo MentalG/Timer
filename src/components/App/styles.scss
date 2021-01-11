@@ -1,0 +1,17 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: rgb(89, 78, 105);
+  background: linear-gradient(
+    0deg,
+    rgba(89, 78, 105, 1) 35%,
+    rgba(147, 134, 165, 1) 100%
+  );
+}

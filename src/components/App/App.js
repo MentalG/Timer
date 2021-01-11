@@ -1,7 +1,10 @@
+import Timer from '../Timer'
+import './styles.scss'
+
 const App = () => {
   return (
     <div className="App">
-      App
+      <Timer />
     </div>
   );
 }
